@@ -1,0 +1,26 @@
+.navbar{
+position: fixed;
+top: 0;
+width: 100vw;
+z-index: 2;
+}
+
+li:hover{
+text-decoration: underline;
+color: aliceblue;
+}
+
+.hitSet img{
+    height: 60vh;
+}
+/* marginTop start */
+.marTop{
+    margin-top: 5rem;
+}
+/* marginTop end */
+
+/* image start */
+.cartImgContainer img{
+    height: 10rem;
+}
+/* image end */
